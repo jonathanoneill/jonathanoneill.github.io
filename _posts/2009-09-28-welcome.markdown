@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome"
+date:   2009-09-28 00:00:00
+categories:
+---
+Welcome. This is the first of what I hope will be regular posts.
+
+The aim of this blog is to share some information and possibly insights on things of a techie nature that I have been working on or investigating. While it is primarily aimed at people I already know and work with anyone else who walks up is welcome to browse and comment.
+
+All comments (and corrections) are welcome :)
+--Jonathan
