@@ -3,11 +3,14 @@ layout: default
 title: jonathanoneill.net
 ---
 <div>
-  <h2><a href="{{site.url}}/blog/">Articles</a></h2>
+  <h3><a href="{{site.url}}/blog/">Articles Archive</a></h3>
   {% for post in site.posts limit:5 %}   
 	  <article>
 	    <h3><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h3>
-	    <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+	    <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}
+	    	<br>
+		    <em><small>{{ post.date | date_to_long_string }}</small></em>
+		</p>
 	  </article>
   {% endfor %}
 </div>
