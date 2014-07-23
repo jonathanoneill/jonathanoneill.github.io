@@ -12,21 +12,21 @@ owner:
   bio:            "Software Developer. Co-Founder @bragbet. Interested in science, technology, innovation and product development."
   email:          jonathan@jonathanoneill.net
 
-# Social networking links are used in author-bio sidebar. Update and remove as you like.
-twitter: jonathanoneill
-facebook:
-github: jonathanoneill
-stackoverflow:
-linkedin: jponeill
-instagram:
-lastfm:
-tumblr:
-pinterest:
-foursquare:
-steam:
-dribbble:
-# For Google Authorship https://plus.google.com/authorship
-google_plus:
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter: jonathanoneill
+  facebook:
+  github: jonathanoneill
+  stackoverflow:
+  linkedin: jponeill
+  instagram:
+  lastfm:
+  tumblr:
+  pinterest:
+  foursquare:
+  steam:
+  dribbble:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-44679290-1
