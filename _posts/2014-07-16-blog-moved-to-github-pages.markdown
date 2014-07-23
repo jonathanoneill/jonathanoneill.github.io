@@ -2,6 +2,7 @@
 layout: post
 title:  "Blog Moved to GitHub Pages"
 date:   2014-07-16 00:00:00
+comments: true
 categories: []
 ---
 
