@@ -3,6 +3,8 @@ layout: post
 title:  "Google Apps Email for your Domain"
 date:   2009-10-17 00:00:00
 categories: [Google]
+tags:
+comments: true
 ---
 <a title="Google Apps" href="http://www.google.com/apps/" target="_blank">Google Apps</a> has been around for some time but I have only recently used it to set-up email from a domain i.e. *user@mydomain.com*. It is straight forward to configure and you get allot for free using <a title="Google Apps Standard Edition" href="http://www.google.com/apps/intl/en/group/index.html" target="_blank">Standard Edition</a> with up to 50 users with 7GB per user of email storage.
 

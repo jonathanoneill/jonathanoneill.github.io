@@ -2,12 +2,14 @@
 layout: post
 title:  "The Risk of App Development Platforms"
 date:   2011-10-15 00:00:00
-categories: []
+categories:
+tags:
+comments: true
 ---
 
 Developing applications on platforms like Facebook and iOS allows third party developers to leverage the existing features of the platform to easily delivery their applications and give users a familiar experience. While these are great benefits it is also worth considering the potential risks for the continued function of your application and your business model if the platform provider decides to make changes. There is a good summary of this risks in Zynga's recent pre IPO <a title="Zynga Inc SEC Form S-1" href="http://www.sec.gov/Archives/edgar/data/1439404/000119312511180285/ds1.htm" target="_blank">SEC filings</a>.
 
-<blockquote style="background-color:gainsboro;"><p><strong><em>If we are unable to maintain a good relationship with Facebook, our business will suffer.</em></strong></p>
+<blockquote><p><strong><em>If we are unable to maintain a good relationship with Facebook, our business will suffer.</em></strong></p>
 <p>Facebook is the primary distribution, marketing, promotion and payment platform for our games. We generate substantially all of our revenue and players through the Facebook platform and expect to continue to do so for the foreseeable future. Any deterioration in our relationship with Facebook would harm our business and adversely affect the value of our Class A common stock.</p>
 <p>We are subject to Facebook’s standard terms and conditions for application developers, which govern the promotion, distribution and operation of games and other applications on the Facebook platform. We have entered into an addendum to these terms and conditions pursuant to which we have agreed to use Facebook Credits, Facebook’s proprietary payment method, as the primary means of payment within our games played through Facebook. This addendum expires in May 2015.</p>
 <p>Our business would be harmed if:</p>

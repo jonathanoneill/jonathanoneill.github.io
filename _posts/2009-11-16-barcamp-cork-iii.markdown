@@ -3,6 +3,8 @@ layout: post
 title:  "BarCamp Cork III"
 date:   2009-11-16 00:00:00
 categories: [Events]
+tags:
+comments: true
 ---
 
 ![](/assets/blog/barcamp-cork-iii/barcamp3.png)

@@ -3,6 +3,8 @@ layout: post
 title:  "Startup Weekend Dublin"
 date:   2010-05-17 00:00:00
 categories: [Events]
+tags:
+comments: true
 ---
 
 ![](/assets/blog/startup-weekend-dublin/sw-dublin.jpg)

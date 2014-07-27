@@ -3,6 +3,8 @@ layout: post
 title:  "VirtualBox"
 date:   2010-03-18 00:00:00
 categories: [VirtualBox,Virtualization]
+tags:
+comments: true
 ---
 
 <p>I have been using <a href="http://www.virtualbox.org/">VirtialBox</a> as an alternative to WMware Workstation for the last few months and it has proved to be a great success. My use of virtual machines is mainly for development and testing purposes so my evaluation is with that in mind. I have been using Windows XP and Mac OS X as the host operating system with Windows XP, CentOS and Ubuntu as guests.</p>

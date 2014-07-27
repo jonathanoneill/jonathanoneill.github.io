@@ -3,6 +3,8 @@ layout: post
 title:  "Business Camp Dublin"
 date:   2009-12-14 00:00:00
 categories: [Events]
+tags:
+comments: true
 ---
 
 ![](/assets/blog/business-camp-dublin/greenhouse_logo.jpg)

@@ -3,6 +3,8 @@ layout: post
 title:  "Reserve RDS Instance Using AWS CLI"
 date:   2010-11-30 00:00:00
 categories: [AWS]
+tags:
+comments: true
 ---
 
 <p>If you have recently reserved a <a title="Amazon Web Services" href="http://aws.amazon.com/" target="_blank">AWS</a> EC2 instances you will know that it can be done easily in the AWS Management Console by selection the "Purchase Reserved Instances" option.</p>

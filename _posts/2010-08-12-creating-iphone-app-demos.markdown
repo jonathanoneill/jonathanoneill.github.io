@@ -3,6 +3,8 @@ layout: post
 title:  "Creating iPhone App Demos"
 date:   2010-08-12 00:00:00
 categories: [iPhone,Mobile]
+tags:
+comments: true
 ---
 
 <p>To demo an iPhone App without a phone for a presentation, video demo etc. there are a number of options each with its own advantages and disadvantages.</p>

@@ -3,6 +3,8 @@ layout: post
 title:  "Vodafone Mobile Broadband Tuning"
 date:   2009-12-01 00:00:00
 categories: [Internet]
+tags:
+comments: true
 ---
 
 I have been using the Vodafone Mobile Broadband Stick (Huawei K3765) and noticed differences in performance (high disk and processor use) on my laptop when I was using it compared to being attached to a local network. Turning down the logging level and preventing the Mobile Connect software from starting at logon significantly improved the performance.

@@ -2,8 +2,9 @@
 layout: post
 title:  "Blog Moved to GitHub Pages"
 date:   2014-07-16 00:00:00
+categories:
+tags:
 comments: true
-categories: []
 ---
 
 Moved this much neglected blog from [wordpress.com](http://wordpress.com/) to [GitHub Pages](https://pages.github.com/). This is an overview of the steps used to migrate the blog.

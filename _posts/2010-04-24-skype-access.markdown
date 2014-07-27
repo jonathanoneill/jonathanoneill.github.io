@@ -3,6 +3,8 @@ layout: post
 title:  "Skype Access"
 date:   2010-04-24 00:00:00
 categories: [Internet,Skype]
+tags:
+comments: true
 ---
 
 ![](/assets/blog/skype-access/access-plain_bigger.png)
