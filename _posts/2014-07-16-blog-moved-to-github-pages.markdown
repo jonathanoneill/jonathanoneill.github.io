@@ -70,4 +70,13 @@ commit and push Jekyll files to the repository. The site will then be automatica
 
 ### Step 5: Update DNS
 
-Update DNS record to customize the domain name.
+Update your domains DNS and add a CNAME record:
+
+`www.jonathanoneill.net        CNAME  jonathanoneill.github.io`
+
+Add a file called "CNAME" to the root of your repository containing the follwing:
+
+`www.jonathanoneill.net`
+
+
+
