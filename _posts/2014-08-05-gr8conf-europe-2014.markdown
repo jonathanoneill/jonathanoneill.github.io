@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "GR8Conf Europe 2014"
+date:   2014-08-05 00:00:00
+categories:
+tags:
+comments: true
+---
+
+I attended [GR8Conf Europe](http://gr8conf.eu/) in Copenhagen back in June, the conference is dedicated to Groovy, Grails and the related technologies. They have published videos of many of the talks over that last month on [YouTube](https://www.youtube.com/channel/UCJXNOMywewNmau4hzAy4LjA). Of the talks I attended these three stick in my mind:
+
+### Hybrid client/server view rendering with Grails
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/pgvlHGi9VXM" frameborder="0" allowfullscreen></iframe>
+
+### Grails & DevOps: continuous integration and delivery in the cloud
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/5s5LkSOngLs" frameborder="0" allowfullscreen></iframe>
+
+### Building Micro Services using Groovy, Spring Boot and friends
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/4LLQeMcFUpY" frameborder="0" allowfullscreen></iframe>
