@@ -4,7 +4,7 @@ permalink: /about/
 title: About
 tagline: Jonathan O'Neill
 tags: [about]
-modified: 23-7-2014
+modified: 31-5-2015
 comments: false
 image:
   feature: texture-feature-02.jpg
@@ -12,4 +12,4 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-Software Developer. Co-Founder @bragbet. Interested in science, technology, innovation and product development.
+Software Developer. I like to figure out how things work and develop new products using lean startup and agile methodologies.
