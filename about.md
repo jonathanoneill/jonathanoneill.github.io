@@ -12,4 +12,4 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-Software Developer. I like to figure out how things work and develop new products using lean startup and agile methodologies.
+Software Developer / Architect. Web and mobile application development, SaaS, laboratory automation, sensors and data collection.
