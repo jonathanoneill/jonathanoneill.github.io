@@ -2,7 +2,7 @@ title:            jonathanoneill.net
 description:      Describe your website.
 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://www.jonathanoneill.net #http://localhost:4000
+url:              https://jonathanoneill.net #http://localhost:4000
 disqus_shortname: jonathanoneill
 
 # Owner/author information
