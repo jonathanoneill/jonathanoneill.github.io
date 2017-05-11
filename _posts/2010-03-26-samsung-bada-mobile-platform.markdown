@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Samsung bada Mobile Platform"
 date:   2010-03-26 00:00:00
 categories: [bada,Mobile,Samsung]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Creating iPhone App Demos"
 date:   2010-08-12 00:00:00
 categories: [iPhone,Mobile]

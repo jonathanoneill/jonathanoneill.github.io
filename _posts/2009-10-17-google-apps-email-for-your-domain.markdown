@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Google Apps Email for your Domain"
 date:   2009-10-17 00:00:00
 categories: [Google]

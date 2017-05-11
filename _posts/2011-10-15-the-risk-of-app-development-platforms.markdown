@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Risk of App Development Platforms"
 date:   2011-10-15 00:00:00
 categories:

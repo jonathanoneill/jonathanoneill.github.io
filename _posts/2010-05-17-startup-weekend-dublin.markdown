@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Startup Weekend Dublin"
 date:   2010-05-17 00:00:00
 categories: [Events]

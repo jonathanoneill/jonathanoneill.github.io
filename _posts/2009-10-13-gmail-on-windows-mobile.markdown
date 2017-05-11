@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Gmail on Windows Mobile"
 date:   2009-10-13 00:00:00
 categories: [Google,Windows Mobile]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Secret History of Silicon Valley‬"
 date:   2011-06-28 00:00:00
 categories:

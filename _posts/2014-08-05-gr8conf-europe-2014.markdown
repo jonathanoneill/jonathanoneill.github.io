@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "GR8Conf Europe 2014"
 date:   2014-08-05 00:00:00
 categories:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Business Camp Dublin"
 date:   2009-12-14 00:00:00
 categories: [Events]

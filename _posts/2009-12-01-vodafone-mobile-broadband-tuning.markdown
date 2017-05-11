@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Vodafone Mobile Broadband Tuning"
 date:   2009-12-01 00:00:00
 categories: [Internet]
