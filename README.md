@@ -1,8 +1,10 @@
 # About
 
-https://pages.github.com/
-
 https://jekyllrb.com/
+
+https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
+
+https://pages.github.com/
 
 # Editing
 
