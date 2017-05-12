@@ -1,7 +1,9 @@
 ---
 title:  "BarCamp Cork III"
+excerpt: "Barcamp was at the Cork International Airport Hotel on Saturday. It was a great event with lots of interesting talks and informal discussion."
 date:   2009-11-16 00:00:00
-categories: [Events]
+categories:
+  - Events
 tags:
 comments: true
 ---

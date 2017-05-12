@@ -1,8 +1,11 @@
 ---
 title:  "Skype Access"
+excerpt: "The new Skype Access service provides a very convenient way to access public  WiFi hotspots in hotels, airports and other public locations."
 date:   2010-04-24 00:00:00
-categories: [Internet,Skype]
+categories:
+  - Internet
 tags:
+  - Skype
 comments: true
 ---
 

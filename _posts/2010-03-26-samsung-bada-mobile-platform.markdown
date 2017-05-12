@@ -1,8 +1,12 @@
 ---
 title:  "Samsung bada Mobile Platform"
+excerpt: "Samsung  have launched their new mobile platform for apps development called  bada. To promote the new platform they are running developer days  throughout the world, including one in Dublin yesterday."
 date:   2010-03-26 00:00:00
-categories: [bada,Mobile,Samsung]
+categories:
 tags:
+  - bada
+  - Mobile
+  - Samsung
 comments: true
 ---
 

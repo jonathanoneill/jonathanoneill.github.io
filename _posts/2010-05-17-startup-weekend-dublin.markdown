@@ -1,7 +1,9 @@
 ---
 title:  "Startup Weekend Dublin"
+excerpt: "Ireland's first startup weekend held at the NDRC in Dublin, May 7th - 9th. Startup weekend is a great concept where you get 50-100 people in a room over a weekend"
 date:   2010-05-17 00:00:00
-categories: [Events]
+categories:
+  - Events
 tags:
 comments: true
 ---
