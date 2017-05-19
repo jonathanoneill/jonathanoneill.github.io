@@ -1,6 +1,6 @@
 ---
 title:  "Weekly Roundup: 19th May 2017"
-excerpt: "TBA"
+excerpt: "This weeks roundup of links includes Google introducing the TensorFlow Research Cloud, cybersecurity following the WannaCrypt ransomware attack and Apple’s New Campus."
 date:   2017-05-19 00:00:00
 categories:
   - WEEKLY ROUNDUP
