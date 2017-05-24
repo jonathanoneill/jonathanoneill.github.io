@@ -1,5 +1,5 @@
 ---
-title:  "Weekly Roundup: 5th May 2017"
+title:  "Weekly Roundup: Friday, 5 May, 2017"
 excerpt: "This weeks roundup of links includes Instacart announce their first public dataset release, Unroll.me selling your data, net nutrality, eBook sales, TV Now, Alphabet results and Microsoft anouncements."
 date:   2017-05-05 00:00:00
 categories:

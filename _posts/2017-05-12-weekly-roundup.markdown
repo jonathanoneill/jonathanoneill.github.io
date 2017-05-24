@@ -1,5 +1,5 @@
 ---
-title:  "Weekly Roundup: 12th May 2017"
+title:  "Weekly Roundup: Friday, 12 May, 2017"
 excerpt: "This weeks roundup of links includes how the New York times saved itself, how data is the new oil and Snap's first results as a public company."
 date:   2017-05-12 00:00:00
 categories:
