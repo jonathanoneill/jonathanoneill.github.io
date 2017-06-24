@@ -3,7 +3,6 @@ title:  "Reserve RDS Instance Using AWS CLI"
 date:   2010-11-30 00:00:00
 categories:
 tags:
-  - AWS
 comments: true
 ---
 

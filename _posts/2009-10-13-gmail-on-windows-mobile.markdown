@@ -3,8 +3,6 @@ title:  "Gmail on Windows Mobile"
 date:   2009-10-13 00:00:00
 categories:
 tags:
-  - Google
-  - Windows Mobile
 comments: true
 ---
 I have been using a phone running Windows Mobile 6 for some time using a POP email client and  Microsoft ActiveSync running on my PC to backup contacts and calendar. While this solution worked it had several limitations:

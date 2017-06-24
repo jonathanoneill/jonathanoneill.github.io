@@ -14,3 +14,5 @@ This site is built with [Jekyll](https://jekyllrb.com/) static site generator us
 The site is hosted on [GitHub Pages](https://pages.github.com/) and distributed by the [Amazon Cloudfront](https://aws.amazon.com/cloudfront/) CDN.
 
 The source code is available on [GitHub](https://github.com/jonathanoneill/jonathanoneill.github.io).
+
+Pre 2017 posts are available in the [Archive](/archive/).

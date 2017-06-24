@@ -2,7 +2,6 @@
 title:  "PINGTEST.NET"
 date:   2009-11-11 00:00:00
 categories:
-  - Internet
 tags:
 comments: true
 ---

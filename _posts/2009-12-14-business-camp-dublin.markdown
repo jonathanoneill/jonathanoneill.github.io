@@ -3,7 +3,6 @@ title:  "Business Camp Dublin"
 excerpt: "A few short notes on some of the talks at Business Camp Dublin held at Trinity College on December 5th."
 date:   2009-12-14 00:00:00
 categories:
-  - Events
 tags:
 comments: true
 ---

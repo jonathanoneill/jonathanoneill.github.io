@@ -12,6 +12,9 @@ author_profile: true
   {% assign posts = group_items[forloop.index0] %}
   <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
   {% for post in posts %}
-    {% include archive-single.html %}
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% if year > "2016" %}
+      {% include archive-single.html %}
+    {% endif %}
   {% endfor %}
 {% endfor %}

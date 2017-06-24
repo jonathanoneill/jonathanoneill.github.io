@@ -3,8 +3,6 @@ title:  "VirtualBox"
 date:   2010-03-18 00:00:00
 categories:
 tags:
-  - VirtualBox
-  - Virtualization
 comments: true
 ---
 

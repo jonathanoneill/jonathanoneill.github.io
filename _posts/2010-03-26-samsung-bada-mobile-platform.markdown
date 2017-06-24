@@ -4,9 +4,6 @@ excerpt: "Samsung  have launched their new mobile platform for apps development 
 date:   2010-03-26 00:00:00
 categories:
 tags:
-  - bada
-  - Mobile
-  - Samsung
 comments: true
 ---
 
