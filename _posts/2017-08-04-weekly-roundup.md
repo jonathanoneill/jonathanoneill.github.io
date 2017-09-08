@@ -6,7 +6,7 @@ categories:
   - WEEKLY ROUNDUP
   - NET NEUTRALITY
   - DEVELOPMENT
-  - DATA PRIVACT
+  - DATA PRIVACY
   - CRYPTOCURRENCY
 tags:
   - Adobe
