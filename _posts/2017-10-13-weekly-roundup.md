@@ -1,6 +1,6 @@
 ---
 title:  "Weekly Roundup: Friday, 13 October, 2017"
-excerpt: "Tech giants hover up AI start-ups and Google's browser based AI experiments"
+excerpt: "Tech giants hover up AI start-ups and Google's browser based AI experiments."
 date:   2017-10-13 00:00:00
 categories:
   - WEEKLY ROUNDUP
