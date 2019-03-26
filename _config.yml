@@ -79,10 +79,10 @@ analytics:
 author:
   name             : "Jonathan O'Neill"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Software Developer / Architect. Web and mobile application development, SaaS, laboratory automation, sensors and data collection."
+  bio              : "Software Developer / Architect"
   location         : "Cork, Ireland"
   email            :
-  uri              : "https://jonathanoneill.net"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
