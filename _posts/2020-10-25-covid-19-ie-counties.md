@@ -1,7 +1,7 @@
 ---
 title:  "COVID-19 - Ireland County Data"
 excerpt: "The Irish government has made available several datasets relating to the COVID-19 pandemic. These are available as raw data from Ireland's COVID-19 Data Hub. This example looks at how you can download and produce visualisations of the County Statistics datasets Covid19CountyStatisticsHPSCIreland) using a Python script."
-date:   2019-10-25 00:00:00
+date:   2020-10-25 00:00:00
 categories:
   - DATA SCIENCE
 tags:
