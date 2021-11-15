@@ -20,7 +20,7 @@ Posts in the series:
 
 * [Part 1 - Hardware - build a data logger for recording temperature and humidity using a Raspberry Pi](/2020/10/31/data-logger-part-1-hardware)
 * Part 2 - Storage - send data to an Amazon Timestream database 
-* Part 3 - Visualization - viewing your data in a graphical form
+* [Part 3 - Visualization - viewing your data in a graphical form](/2021/11/15/data-logger-part-3-visualization)
 
 **Create Timeseries Database**
 
