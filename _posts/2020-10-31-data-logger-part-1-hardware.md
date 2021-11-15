@@ -17,8 +17,8 @@ This is the first in a series of posts to build a simple data logger system for 
 Three elements of system will be covered:
 
 * Part 1 - Hardware - build a data logger for recording temperature and humidity using a Raspberry Pi
-* Part 2 - Storage - send data to an AWS Timestream database 
-* Part 3 - Visualization - viewing your data in a graphical form
+* [Part 2 - Storage - send data to an Amazon Timestream database](/2021/11/15/data-logger-part-2-storage)
+* [Part 3 - Visualization - viewing your data in a graphical form](/2021/11/15/data-logger-part-3-visualization)
 
  This post is based on the Raspberry Pi Tutorial <a title="Raspberry Pi: Measure Humidity and Temperature with DHT11/DHT22" href="https://tutorials-raspberrypi.com/raspberry-pi-measure-humidity-temperature-dht11-dht22/" target="_blank">Raspberry Pi: Measure Humidity and Temperature with DHT11/DHT22</a>.
 
@@ -42,30 +42,28 @@ Raspberry Pi OS
 $ lsb_release -a
 No LSB modules are available.
 Distributor ID:	Raspbian
-Description:	Raspbian GNU/Linux 8.0 (jessie)
-Release:	8.0
-Codename:	jessie
+Description:	Raspbian GNU/Linux 11 (bullseye)
+Release:	11
+Codename:	bullseye
 {% endhighlight %}
 
 Python
 
 {% highlight shell %}
-$ python --version
-Python 2.7.9
+$ python3 --version
+Python 3.9.2
 {% endhighlight %}
 
 **Install Adafruit Python DHT**
 
 {% highlight shell %}
-$ sudo apt-get update
-	
-$ sudo apt-get install build-essential python-dev python-openssl git
-	
-$ git clone https://github.com/adafruit/Adafruit_Python_DHT.git && cd Adafruit_Python_DHT
-	
-$ sudo apt-get install -y python-setuptools
-	
-$ sudo python setup.py install
+ $ sudo apt-get update
+
+ $ sudo apt-get install python3-pip
+
+ $ sudo python3 -m pip install --upgrade pip setuptools wheel
+
+ $ sudo pip3 install Adafruit_DHT
 {% endhighlight %}
 
 Run the example script:
@@ -136,7 +134,7 @@ def main():
 
 def write_file_header():
 
-    with open(DATA_FILE, 'wb') as csvfile:
+    with open(DATA_FILE, 'w') as csvfile:
         fieldnames = ['Timestamp','SensorId','Location','Measurement','Value','Unit']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
@@ -164,7 +162,7 @@ if __name__ == '__main__':
 Running the scripts gives the screen output:
 
 {% highlight shell %}
-$ python data_logger_part_1.py
+$ python3 data_logger_part_1.py
 Logging sensor measurements to data.txt every 60 seconds.
 Press Ctrl-C to quit.
 Timestamp                   SensorId  Location  Measurement        Value  Unit
@@ -199,3 +197,5 @@ Timestamp,SensorId,Location,Measurement,Value,Unit
 {% endhighlight %}
 
 Now we have data logging locally, the next part of the series will look at storing the data in a AWS Timestream database.
+
+The code for this post is available on [GitHub](https://github.com/jonathanoneill/data-logger-blog-post/tree/data-logger-part-1-hardware).
