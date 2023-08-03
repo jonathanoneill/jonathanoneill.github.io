@@ -17,8 +17,8 @@ This is the first in a series of posts to build a simple data logger system for 
 Three elements of system will be covered:
 
 * Part 1 - Hardware - build a data logger for recording temperature and humidity using a Raspberry Pi
-* [Part 2 - Storage - send data to an Amazon Timestream database](../../../../2021/11/15/data-logger-part-2-storage)
-* [Part 3 - Visualization - viewing your data in a graphical form](../../../../2021/11/15/data-logger-part-3-visualization)
+* [Part 2 - Storage - send data to an Amazon Timestream database]({% post_url 2021-11-15-data-logger-part-2-storage %})
+* [Part 3 - Visualization - viewing your data in a graphical form]({% post_url 2021-11-15-data-logger-part-3-visualization %})
 
  This post is based on the Raspberry Pi Tutorial <a title="Raspberry Pi: Measure Humidity and Temperature with DHT11/DHT22" href="https://tutorials-raspberrypi.com/raspberry-pi-measure-humidity-temperature-dht11-dht22/" target="_blank">Raspberry Pi: Measure Humidity and Temperature with DHT11/DHT22</a>.
 

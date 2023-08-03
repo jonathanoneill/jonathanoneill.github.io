@@ -18,9 +18,9 @@ This is the second in a series of posts to build a simple data logger system for
 
 Posts in the series:
 
-* [Part 1 - Hardware - build a data logger for recording temperature and humidity using a Raspberry Pi](../../../../2020/10/31/data-logger-part-1-hardware)
+* [Part 1 - Hardware - build a data logger for recording temperature and humidity using a Raspberry Pi]({% post_url 2020-10-31-data-logger-part-1-hardware %})
 * Part 2 - Storage - send data to an Amazon Timestream database 
-* [Part 3 - Visualization - viewing your data in a graphical form](../../../../2021/11/15/data-logger-part-3-visualization)
+* [Part 3 - Visualization - viewing your data in a graphical form]({% post_url 2021-11-15-data-logger-part-3-visualization %})
 
 **Create Timeseries Database**
 

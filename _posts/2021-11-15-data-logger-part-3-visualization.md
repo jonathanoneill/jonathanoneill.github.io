@@ -18,8 +18,8 @@ This is the third in a series of posts to build a simple data logger system for 
 
 Posts in the series:
 
-* [Part 1 - Hardware - build a data logger for recording temperature and humidity using a Raspberry Pi](../../../../2020/10/31/data-logger-part-1-hardware)
-* [Part 2 - Storage - send data to an Amazon Timestream database](../../../../2021/11/15/data-logger-part-2-storage)
+* [Part 1 - Hardware - build a data logger for recording temperature and humidity using a Raspberry Pi]({% post_url 2020-10-31-data-logger-part-1-hardware %})
+* [Part 2 - Storage - send data to an Amazon Timestream database]({% post_url 2021-11-15-data-logger-part-2-storage %})
 * Part 3 - Visualization - viewing your data in a graphical form
 
 **Libraries**
