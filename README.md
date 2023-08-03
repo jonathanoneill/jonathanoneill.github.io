@@ -10,7 +10,9 @@ https://pages.github.com/
 
 $ ruby -v
 
-ruby 2.0.0p648 (2015-12-16 revision 53162) [universal.x86_64-darwin16]
+~~ruby 2.0.0p648 (2015-12-16 revision 53162) [universal.x86_64-darwin16]~~
+
+ruby 3.2.2 (2023-03-30 revision e51014f9c0) [x86_64-darwin21]
 
 $ gem install bundler
 
@@ -18,7 +20,9 @@ $ bundle install
 
 $ jekyll -version
 
-jekyll 3.4.3
+~~jekyll 3.4.3~~
+
+jekyll 4.3.2
 
 $ cd jonathanoneill.github.io
 
