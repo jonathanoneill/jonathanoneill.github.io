@@ -1,6 +1,6 @@
 ---
 title:  "Image Processing with Torchvision"
-excerpt: "This is a brief overview of the most common image-processing tasks that can be performed using the PyTorch Torchvision package. These tasks include image classification, localisation, object detection, instance segmentation, and semantic segmentation. Several models, such as ResNet-50, Faster R-CNN, and FCN, are used to demonstrate these tasks. The weights used in these models are the default weights available in Torchvision. The code examples in this overview are based on the examples provided in the PyTorch documentation and use Torchvision version 0.16."
+excerpt: "This is a brief overview of the most common image-processing tasks that can be performed using the PyTorch Torchvision package. Including classification, localisation, object detection, instance segmentation and semantic segmentation."
 date:   2024-02-02 00:00:00
 categories:
   - AI
